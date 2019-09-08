@@ -18,5 +18,7 @@ The user interface will appear. Create an account or login by pressing either bu
 
 Once login or account creation is complete, user can play video, pause video, or exit.
 
+There is already a self-signed CA certificate for the server. However, to overwrite it with a new one, run generate_cert.py.
+
 ## Demonstration
 <a href="https://imgflip.com/gif/3a158x"><img src="https://i.imgflip.com/3a158x.gif" title="made at imgflip.com"/></a>
